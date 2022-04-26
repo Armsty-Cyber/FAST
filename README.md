@@ -24,3 +24,5 @@ pkg install git
 git clone https://github.com/Armsty-Cyber/FAST
 
 cd FAST
+
+python FAST.py
